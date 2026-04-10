@@ -1,0 +1,6 @@
+dash
+dash-bootstrap-components
+google-api-python-client
+firebase-admin
+SpeechRecognition
+pyaudio
